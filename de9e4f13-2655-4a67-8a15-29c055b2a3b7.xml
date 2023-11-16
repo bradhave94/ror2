@@ -32,7 +32,7 @@
         ObtainArtifactWeakAssKnees ObtainArtifactWispOnDeath UseThreePortals TotalMoneyCollected
         ObtainArtifactTeamDeath ObtainArtifactShadowClone ObtainArtifactMonsterTeamGainsItems
         ObtainArtifactGlass ObtainArtifactCommand KillElitesMilestone Discover5Equipment</achievementsList>
-    <coins>4790</coins>
+    <coins>4791</coins>
     <discoveredPickups>ItemIndex.AACannon ItemIndex.ArmorPlate ItemIndex.ArmorReductionOnHit
         ItemIndex.AttackSpeedOnCrit ItemIndex.AutoCastEquipment ItemIndex.BarrierOnKill
         ItemIndex.BarrierOnOverHeal ItemIndex.Bear ItemIndex.BearVoid ItemIndex.Behemoth
@@ -110,7 +110,7 @@
     <stickLookSensitivity>5</stickLookSensitivity>
     <survivorPreference>Captain</survivorPreference>
     <totalAliveSeconds>460874</totalAliveSeconds>
-    <totalCollectedCoins>4790</totalCollectedCoins>
+    <totalCollectedCoins>4791</totalCollectedCoins>
     <totalLoginSeconds>607069</totalLoginSeconds>
     <totalRunCount>0</totalRunCount>
     <totalRunSeconds>473399</totalRunSeconds>
@@ -4169,7 +4169,7 @@
         <unlock>Logs.Stages.sulfurpools</unlock>
         <unlock>Logs.Stages.voidstage</unlock>
         <unlock>Logs.Stages.voidraid</unlock>
-    </stats>
+    <unlock>Items.FlatHealth</unlock><unlock>Items.LightningStrikeOnHit</unlock><unlock>Items.LunarSecondaryReplacement</unlock><unlock>Items.LunarSpecialReplacement</unlock><unlock>Items.ParentEgg</unlock><unlock>Items.RoboBallBuddy</unlock><unlock>Items.SkullCounter</unlock></stats>
     <tutorialDifficulty>3</tutorialDifficulty>
     <tutorialEquipment>3</tutorialEquipment>
     <tutorialSprint>3</tutorialSprint>
